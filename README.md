@@ -13,7 +13,7 @@ Agora veio a parte emocionante! Mergulhei no JavaScript e usei a biblioteca Axio
 Passo 4: Exibindo informações meteorológicas
 Depois de obter os dados autorizados pela API do youtoobe com sucesso, concentrei-me em exibi-los de maneira amigável. Eu queria que meu Layout, com cards com redenerizados tamanhos iguais e descrições dos títulos, nome do usuarios, tempo de criação do vídeo e outros. breve resumo: milhares de vídeos criados por dia sendo manipulados com comportamento que eu defini. Usando JavaScript, e atualizando  dinamicamente a página da Web com essas informações em base na resposta da API.
 Etapa 5: arredondamento da temperatura
-Para tornar a exibição mais limpa, decidi pegar oPróprio Youtube e fazer um Clone parecido. Graças ao método `toFixed()` do JavaScript, consegui fazer isso facilmente. Agora, o site lê os dados recebido pela API e renderizam  de uma maneira muito mais organizada e visualmente atraente.
+Para tornar a exibição mais limpa, decidi pegar oPróprio Youtube e fazer um Clone parecido. Graças ao método asyncrono -`await axios.get(url)` do JavaScript, consegui fazer isso facilmente. Agora, o site lê os dados recebido pela API e renderizam  de uma maneira muito mais organizada e visualmente atraente.
 Passo 6: Tratamento de Erros
 Eu sabia que meu site deveria ser robusto, então implementei mecanismos de autenticação de senha  para gerar um token Se houvesse um problema com a solicitação do usuário acabaria expirando em 24 hrs,  com autenticações nos inputs de Email incorreto exibia um alerta para informá-lo sobre o problema, também para os input e títulos decorrentes
 Conclusão:
