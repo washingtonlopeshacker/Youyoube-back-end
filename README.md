@@ -19,7 +19,7 @@ Eu sabia que meu site deveria ser robusto, então implementei mecanismos de aute
 Conclusão:
 Construir este site  foi uma experiência de aprendizado fantástica para mim. Pude entender como interagir com APIs, processar a entrada do usuário e criar e pegar vídeos de  diversos lugares do mundo na Web de forma dinâmicos que fornecem informações valiosas em tempo real. Adicionar mais conhecimento Javascript e realizar um projeto assim com a ferramente React em Typescript acrescentou um toque extra de profissionalismo à interface do usuário. Estou orgulhoso do resultado final e mal posso esperar para embarcar em mais aventuras de codificação no futuro!
 Washington Luiz Mendes Lopes 
-Desenvolvedor  FullStack , Front end 7 Back-end
+Desenvolvedor  FullStack , Front end & Back-end
 
 
 
